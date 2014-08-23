@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The code created in this submission is based on code provided in 
+## the ProgrammingAssignment2 description of the R Programming course
+## by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD.
 
 ## This function sets the value of the base matrix, gets the  base matrix
 ## sets the inverse matrix, and gets the inverse matrix.
